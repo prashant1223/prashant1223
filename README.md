@@ -1,6 +1,6 @@
 - 👋 Hi, I’m prashant  
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning asp .net and sql server
+- 👀 I’m interested in coding c# asp.net 
+- 🌱 I’m currently learning sql server 
 - 💞️ I’m looking to collaborate on IT company
 - 📫 How to reach me just check our my profile 
 
